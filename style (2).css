@@ -1,0 +1,28 @@
+body{
+    background-color: #e2e4e5;
+    text-align: center;
+}
+h1{
+    background-color: #eceff1;
+    font-size: 3.5em;
+    text-shadow:1px 1px 1px red;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 2px;
+}
+figcaption{
+    font-family: cursive;
+    text-align: center;
+    font-size: 1.5em;
+}
+figure{
+    display: inline-block;
+    padding: 1em;
+}
+figure:hover{
+    background-color:#eceff1;
+    color: red;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
